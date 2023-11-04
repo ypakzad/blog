@@ -7,7 +7,7 @@ name: Y Pakzad
 
 # Short bio or description (displayed in the header)
 description: Security Engineer and Software Developer
-
+theme: minima
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
